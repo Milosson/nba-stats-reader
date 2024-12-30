@@ -1,5 +1,0 @@
-image: gitpod/workspace-python:latest
-
-tasks: 
-- init: pip install -r requirements.txt
-- command: streamlit run nba_stats_app.py
